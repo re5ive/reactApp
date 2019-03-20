@@ -1,0 +1,16 @@
+{
+  "short_name": "PTS",
+  "manifest_version": 2,
+  "author": "DTP",
+  "version": "0.8.1",
+  "name": "TNEXUS",
+  "default_locale": "en",
+  "start_url": "./",
+  "theme_color": "rgba(46, 79, 107, 1)",
+  "background_color": "rgb(190, 211, 227)",
+  "orientation": "Portrait",
+  "developer": {
+    "name": "Kamaal ABOOTHALIB",
+    "url": "http://kamaal.me"
+  }
+}

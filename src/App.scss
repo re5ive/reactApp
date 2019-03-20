@@ -1,0 +1,16 @@
+// main theme
+:root{
+  font-size: 14px;
+}
+html, body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Arial, 'sans-serif';
+}
+*, html, body, article, section, div, span, p, h1,h2,h3,h4,h5,h6{
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  /*color: rgba(63, 81, 97, 1.000);*/
+}

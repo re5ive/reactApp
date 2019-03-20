@@ -1,0 +1,4 @@
+NODE_PATH=src
+PORT=4000
+REACT_EDITOR=webstorm
+NODE_ENV=development
